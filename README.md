@@ -1,0 +1,1 @@
+This is a project made with the Python programming language and its SQLAlchemy library, where I implemented a local MySQL database. It was created for the big chemical toilet company in Curitiba, BWC Químico. The purpose of the project is to address the company's need for a database.
